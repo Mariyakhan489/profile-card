@@ -1,0 +1,57 @@
+/* Card */
+.card {
+    background-color: #ffffff;
+    width: 300px;
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    margin: 40px auto;
+}
+
+/* Image */
+.img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #2563eb;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+/* Name */
+.name {
+    font-size: 22px;
+    color: #0f172a;
+    margin-bottom: 5px;
+}
+
+/* Title */
+.title {
+    color: #2563eb;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+/* Description */
+.desc p {
+    font-size: 14px;
+    color: #475569;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Button */
+.btn {
+    background-color: #2563eb;
+    color: #ffffff;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #1d4ed8;
+}
